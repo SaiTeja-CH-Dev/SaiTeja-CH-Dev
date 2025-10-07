@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=Hi,+I'm+Sai+Teja+CH+👋;Full-Stack+Java+Developer;7%2B+Years+in+Software+Engineering;Building+Cloud-Native+Applications+%26+CI%2FCD+Workflows" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=Hi,+I'm+Sai+Teja+CH+👋;Full-Stack+Java+Developer;7%2B+Years+in+Software+Engineering;" alt="Typing Intro" />
 </p>
 
 <p align="center">
