@@ -91,7 +91,3 @@ I’m always open to collaborating on **scalable backends**, **clean UIs**, or *
 
 ---
 
-<!-- Optional contribution snake animation -->
-
-![snake gif](https://github.com/SaiTeja-CH-Dev/SaiTeja-CH-Dev/blob/output/github-contribution-grid-snake.svg)
-
