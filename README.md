@@ -14,20 +14,20 @@
 
 ### 👨‍💻 About Me  
 
-Hey there! I’m **Sai Teja CH**, a **Full-Stack Java Developer** with **7+ years** designing, developing, and deploying enterprise software.  
+Hey there! I’m **Sai Teja CH**, a **Full-Stack Java Developer** with **7+ years of experience** designing and deploying scalable enterprise systems.  
 
-I specialize in **cloud-native microservices**, **data-driven UIs**, and **DevOps automation** — blending backend precision with frontend clarity.  
-I’ve contributed to impactful builds across **FinTech**, **HealthTech**, and **Non-profit** domains, focusing on reliability, performance, and a clean developer experience.
+I specialize in **microservices architecture**, **cloud-native development**, and **DevOps automation**, bringing a balance of backend precision, frontend creativity, and delivery consistency.  
+My work spans **FinTech**, **HealthTech**, and **E-commerce** domains — building systems that are secure, resilient, and measurable in impact.
 
 ---
 
 ### 🚀 Core Strengths  
 
-- **Full-Stack Breadth** — Backend (Java/Spring Boot), Frontend (React/Angular), and CI/CD pipelines  
-- **Cloud-Native** — AWS/Azure deployments with containers and orchestration (EKS/AKS)  
-- **Automation-First** — GitHub Actions, Terraform, and repeatable delivery workflows  
-- **Security & Scale** — Spring Security, OAuth2/JWT, and resilient API design  
-- **Team Impact** — Mentoring, code standards, and simplifying complex workflows
+- **Full-Stack Delivery** — Java / Spring Boot, React / Angular, and cross-layer problem solving  
+- **Cloud & DevOps** — AWS / Azure deployments with CI/CD via GitHub Actions & Terraform  
+- **Scalable Architectures** — Containerization with Docker and Kubernetes for high availability  
+- **Security & Observability** — OAuth2 / JWT auth, logging pipelines, metrics & tracing  
+- **Team Mindset** — Mentorship, collaborative reviews, and engineering best practices  
 
 ---
 
@@ -53,38 +53,47 @@ I’ve contributed to impactful builds across **FinTech**, **HealthTech**, and *
 
 ### 🧩 Featured Projects  
 
-- **Claims Microservices Platform**  
-  Modular Spring Boot + Kafka system for high-volume claims with async messaging, retries, and real-time status tracking.  
-  _Tech:_ Java 17, Spring Boot, Kafka, PostgreSQL, Docker, AWS  
-  ➤ `https://github.com/YOUR-USERNAME/claims-platform` *(replace with your repo)*
+#### 🕵️‍♂️ Claims Fraud Detection & Analytics Platform  
+Developed an intelligent claims analytics system integrating real-time anomaly detection and predictive models to identify potential fraud.  
+**Highlights:** Microservices-based architecture (Spring Boot + Kafka), ETL pipelines for data aggregation, React dashboards for visual analysis, and AWS S3 for data storage.  
+_Tech:_ Java 17, Spring Boot, Kafka, AWS, React, PostgreSQL, Python (ML models)
 
-- **Analytics Dashboard**  
-  Data visualization with React + TypeScript, role-based access, and RESTful integration.  
-  _Tech:_ React, TypeScript, Node.js, Express, Chart.js, AWS Lambda  
-  ➤ `https://github.com/YOUR-USERNAME/analytics-dashboard` *(replace with your repo)*
+---
 
-- **Infrastructure as Code Template**  
-  Terraform modules for VPC, EKS, and GitHub OIDC-based secure deployments.  
-  _Tech:_ Terraform, AWS, GitHub Actions, IAM, EKS  
-  ➤ `https://github.com/YOUR-USERNAME/infra-modules` *(replace with your repo)*
+#### 🚗 Vehicle Auction Intelligence Platform  
+Built a platform that processes live auction streams, automates bid analysis, and offers predictive pricing insights using ML models.  
+**Highlights:** Event-driven design, asynchronous processing with Kafka, real-time metrics via Grafana, and containerized deployment on EKS.  
+_Tech:_ Java, Spring Boot, AWS EKS, Kafka, Python, React, Redis
+
+---
+
+#### 🛒 E-Commerce Platform Re-Architecture & Order Automation  
+Re-engineered a legacy monolithic e-commerce application into scalable microservices and automated end-to-end order processing.  
+**Highlights:** Improved system latency by 30 %, implemented centralized auth using OAuth2, and introduced CI/CD with GitHub Actions for multi-env deployments.  
+_Tech:_ Java 17, Spring Boot, Angular, MySQL, Docker, GitHub Actions, Terraform, AWS RDS  
 
 ---
 
 ### 🧠 Currently Exploring  
 
-- 🤖 **AI/ML service integration** with Java microservices for predictive workflows  
-- ☁️ **Multi-region fault tolerance** patterns on AWS  
-- 🧩 **Reusable React design systems** for data-heavy UIs  
-- 🔍 **Java performance tuning**, async patterns, and observability
+- 🤖 Integrating AI pipelines into Java microservices for real-time decision support  
+- ☁️ Designing multi-region failover strategies on AWS  
+- 🧩 Building modular React component libraries for analytics dashboards  
+- 🔍 Java performance tuning, async flows, and observability best practices  
 
 ---
 
 ### 💬 Let’s Connect  
 
-I’m open to collaborating on **Java microservices**, **cloud solutions**, and **frontend performance**.  
+I’m always interested in collaborating on projects focused on **cloud-native Java**, **automation**, and **modern UI engineering**.  
 
 📧 [teja.ch.dev@gmail.com](mailto:teja.ch.dev@gmail.com)  
 <!-- Add your LinkedIn URL, then uncomment the line below -->
 <!-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG) -->
 
 ---
+
+<!-- Optional contribution snake animation -->
+<!--
+![snake gif](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
+-->
