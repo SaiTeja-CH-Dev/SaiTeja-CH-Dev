@@ -1,11 +1,12 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sai+Teja+CH+%F0%9F%91%8B;Full-Stack+Java+Developer;Building+Cloud-Native+Applications;Automating+CI%2FCD+Workflows+with+DevOps+Best+Practices" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sai+Teja+%F0%9F%91%8B;Full-Stack+Java+Developer;7%2B+Years+in+Software+Engineering;Building+Cloud-Native+Applications+%26+CI%2FCD+Workflows" alt="Typing Intro" />
 </p>
 
 <p align="center">
   <a href="mailto:teja.ch.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
-  <!--<a href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>-->
+  <!-- Update your LinkedIn URL below, then uncomment this line -->
+  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a> -->
   <img alt="Location" src="https://img.shields.io/badge/Location-Raleigh%2C%20NC-4CAF50?style=for-the-badge&logo=google-maps">
 </p>
 
@@ -13,27 +14,20 @@
 
 ### 👨‍💻 About Me  
 
-Hey there! I’m **Sai Teja CH**, a **Full-Stack Java Developer** passionate about solving real-world problems through scalable backend systems and intuitive frontends.  
-I enjoy blending **engineering precision** with **clean design**, ensuring everything I build — from APIs to dashboards — is both **powerful and user-friendly**.
+Hey there! I’m **Sai Teja CH**, a **Full-Stack Java Developer** with **7+ years** designing, developing, and deploying enterprise software.  
 
-Over the last few years, I’ve worked across **FinTech**, **HealthTech**, and **Non-profit** domains, building enterprise systems that balance **performance**, **security**, and **maintainability**.  
-
-I love working on:
-- 🧠 **Microservices & Cloud-native design** — Spring Boot, AWS, and containerized deployments  
-- ⚙️ **CI/CD automation** — GitHub Actions, Jenkins, Terraform  
-- 🧩 **Frontend development** — React + TypeScript for data-driven dashboards  
-- 🗃️ **Database design & optimization** — PostgreSQL, MySQL, MongoDB  
-- 🔒 **Security-first coding** — OAuth2, JWT, role-based access  
+I specialize in **cloud-native microservices**, **data-driven UIs**, and **DevOps automation** — blending backend precision with frontend clarity.  
+I’ve contributed to impactful builds across **FinTech**, **HealthTech**, and **Non-profit** domains, focusing on reliability, performance, and a clean developer experience.
 
 ---
 
 ### 🚀 Core Strengths  
 
-💡 **Technical Versatility** — Skilled across backend, frontend, and DevOps pipelines; strong grasp of full SDLC.  
-🌩️ **Cloud & Scalability Focused** — Experienced in deploying microservices to AWS & Azure with Kubernetes orchestration.  
-🧰 **Automation Mindset** — CI/CD pipelines, Infrastructure as Code, and reusable DevOps templates.  
-🧑‍🤝‍🧑 **Team Builder & Mentor** — Known for knowledge sharing, coding standards, and simplifying workflows for peers.  
-🎯 **Impact-Driven** — Every line of code aims to reduce cost, improve stability, or deliver measurable business value.
+- **Full-Stack Breadth** — Backend (Java/Spring Boot), Frontend (React/Angular), and CI/CD pipelines  
+- **Cloud-Native** — AWS/Azure deployments with containers and orchestration (EKS/AKS)  
+- **Automation-First** — GitHub Actions, Terraform, and repeatable delivery workflows  
+- **Security & Scale** — Spring Security, OAuth2/JWT, and resilient API design  
+- **Team Impact** — Mentoring, code standards, and simplifying complex workflows
 
 ---
 
@@ -57,37 +51,40 @@ I love working on:
 
 ---
 
-### 🧩 Selected Projects  
+### 🧩 Featured Projects  
 
 - **Claims Microservices Platform**  
-  A modular Spring Boot + Kafka-based architecture for handling insurance claims with retry logic, async events, and real-time status updates.  
-  _Tech:_ Java 17, Spring Boot, Kafka, Postgres, Docker, AWS  
+  Modular Spring Boot + Kafka system for high-volume claims with async messaging, retries, and real-time status tracking.  
+  _Tech:_ Java 17, Spring Boot, Kafka, PostgreSQL, Docker, AWS  
+  ➤ `https://github.com/YOUR-USERNAME/claims-platform` *(replace with your repo)*
 
 - **Analytics Dashboard**  
-  Developed a React + TypeScript front-end for real-time analytics, integrating JWT-based auth and REST APIs.  
+  Data visualization with React + TypeScript, role-based access, and RESTful integration.  
   _Tech:_ React, TypeScript, Node.js, Express, Chart.js, AWS Lambda  
+  ➤ `https://github.com/YOUR-USERNAME/analytics-dashboard` *(replace with your repo)*
 
 - **Infrastructure as Code Template**  
-  Built Terraform modules for automated VPC creation, EKS setup, and GitHub OIDC workflows for secure deployments.  
+  Terraform modules for VPC, EKS, and GitHub OIDC-based secure deployments.  
   _Tech:_ Terraform, AWS, GitHub Actions, IAM, EKS  
+  ➤ `https://github.com/YOUR-USERNAME/infra-modules` *(replace with your repo)*
 
 ---
 
-### 🧠 What I’m Exploring  
+### 🧠 Currently Exploring  
 
-- 🤖 Integrating **AI APIs** into enterprise backends for intelligent data processing  
-- ☁️ Building **multi-region failover** strategies in AWS ECS/EKS  
-- 🧩 Designing **design-system-driven UI frameworks** for React apps  
-- 🔍 Optimizing **Java performance tuning** (GC tuning, async design, observability)  
+- 🤖 **AI/ML service integration** with Java microservices for predictive workflows  
+- ☁️ **Multi-region fault tolerance** patterns on AWS  
+- 🧩 **Reusable React design systems** for data-heavy UIs  
+- 🔍 **Java performance tuning**, async patterns, and observability
 
 ---
 
 ### 💬 Let’s Connect  
 
-I’m always open to collaborating on **scalable backends**, **clean UIs**, or **DevOps automation** ideas.  
+I’m open to collaborating on **Java microservices**, **cloud solutions**, and **frontend performance**.  
 
 📧 [teja.ch.dev@gmail.com](mailto:teja.ch.dev@gmail.com)  
-<!--🔗 [LinkedIn](https://www.linkedin.com/in/)  -->
+<!-- Add your LinkedIn URL, then uncomment the line below -->
+<!-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG) -->
 
 ---
-
